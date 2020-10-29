@@ -21,7 +21,7 @@
 <br  />
 
 ### My Stats:
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=kree666&count_private=true&show_icons=true)](https://github.com/kree666)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=kree666&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/kree666)
 [![trophy](https://github-profile-trophy.vercel.app/?username=kree666&theme=onedark&row=2&column=3)](https://github.com/kree666)
 
-[![Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kree666)](https://github.com/kree666?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kree666&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
