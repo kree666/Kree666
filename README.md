@@ -5,7 +5,7 @@
 **kree666/Kree666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 **I’m currently working on:** Completing my first Hacktoberfest! 
+- 🔭 **I’m currently working on:** Completing my first Hacktoberfest! (I finished!!!)
 - 🌱 **I’m currently learning:** The in's and out's of GitHub
 - :school: **Other information:** I'm currently in an MS Accounting program 
 - 😄 **Pronouns:** She/Her
