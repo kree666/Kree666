@@ -6,7 +6,7 @@
 
 - 🔭 **I’m currently working on:** Completing my first Hacktoberfest! (I finished!!!)
 - 🌱 **I’m currently learning:** The in's and out's of GitHub
-- :school: **Other information:** I received an MS in Accounting
+- :school: **Other information:** I've received an MS in Accounting
 - 😄 **Pronouns:** She/Her
 - ⚡ **Fun fact:** I love to crochet 
 
